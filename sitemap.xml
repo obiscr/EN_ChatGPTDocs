@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://127.0.0.1/</loc>
+         <loc>https://chatgpt.en.obiscr.com/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://127.0.0.1/faq/</loc>
+         <loc>https://chatgpt.en.obiscr.com/faq/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://127.0.0.1/getting-started/</loc>
+         <loc>https://chatgpt.en.obiscr.com/getting-started/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://127.0.0.1/license/</loc>
+         <loc>https://chatgpt.en.obiscr.com/license/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://127.0.0.1/settings/</loc>
+         <loc>https://chatgpt.en.obiscr.com/settings/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://127.0.0.1/usage/</loc>
+         <loc>https://chatgpt.en.obiscr.com/usage/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://127.0.0.1/blog/</loc>
+         <loc>https://chatgpt.en.obiscr.com/blog/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://127.0.0.1/blog/posts/2022/chatgpt-released/</loc>
+         <loc>https://chatgpt.en.obiscr.com/blog/posts/2022/chatgpt-released/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
