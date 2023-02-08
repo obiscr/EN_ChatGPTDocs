@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chatgpt.en.obiscr.com/build-from-source/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chatgpt.en.obiscr.com/faq/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
